@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="english language">
-    <meta name="author" content="Wim Teuling">
+    <meta name="author" content="William Teuling">
 
     <title>Our website - home page</title>
 
